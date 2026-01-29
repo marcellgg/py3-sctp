@@ -61,6 +61,4 @@ Next, retrieve the py3-sctp module and build it:
 
    (py3-sctp) $ python3 -m pip install py3-sctp
 
-To verify that the installation was successful, go to the
-:Bash:`tests` directory and run the clients/servers located there (for
-more details about these, see :ref:`examples`).
+To get an insight into how this module works, see :ref:`examples`.
