@@ -4,4 +4,6 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "py3-sctp"
+version = "1.0"
+
 
