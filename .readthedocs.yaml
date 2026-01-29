@@ -4,11 +4,8 @@ build:
   os: "ubuntu-lts-latest"
   tools:
     python: "latest"
-  jobs:
-    pre_install:
-      - pip install graphviz
-  # apt_packages:
-  #   - graphviz
+  apt_packages:
+    - graphviz
 
 python:
   install:
@@ -21,4 +18,4 @@ sphinx:
   configuration: docs/source/conf.py
 
 formats:
-  - pdf
+  - html
