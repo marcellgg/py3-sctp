@@ -6,8 +6,8 @@ build:
     python: "latest"
 
 python:
-  version: 
-  install: "latest"
+  version: "latest"
+  install:
     - requirements: docs/requirements.txt
     # Install our python package before building the docs
     #- method: pip
