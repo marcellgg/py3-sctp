@@ -5,9 +5,7 @@ build:
   tools:
     python: "latest"
 
-python:
-  install:
-    - requirements: docs/requirements.txt
+python.install.requirements: docs/requirements.txt
       
 sphinx:
   configuration: docs/source/conf.py
