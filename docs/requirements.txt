@@ -1,3 +1,4 @@
 sphinx
+sphinx.build_meta
 python_docs_theme
 graphviz

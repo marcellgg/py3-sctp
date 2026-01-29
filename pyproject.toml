@@ -1,5 +1,6 @@
 [build-system]
 requires = ["sphinx"]
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "py3-sctp"
