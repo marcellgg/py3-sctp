@@ -2,8 +2,9 @@ Installation
 ============
 
 This Python module is an encapsulation of the SCTP library provided by
-Linux and FreeBSD operating systems (no other systems are currently
-supported). Therefore, these libraries must be installed beforehand.
+*Linux* and *FreeBSD* operating systems (no other systems are
+currently supported). Therefore, these libraries must be installed
+beforehand.
 
 SCTP library
 ------------
